@@ -1,7 +1,7 @@
 # Tugas 1 — Pengantar OOP
 
-**Nama:** [Nama Lu]
-**NPM:** [NPM Lu]
+**Nama:** Muhammad Alfarel Prihadi
+**NPM:** 4525210083
 
 ## Nama Domain
 **Kamar Hotel** — mencatat data satu kamar hotel: nomor kamar, tipe kamar, kapasitas tamu, harga per malam, dan jumlah tamu yang sedang menginap. Kamar dapat menerima check-in tamu, check-out, dan perubahan harga.
